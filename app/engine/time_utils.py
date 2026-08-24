@@ -92,6 +92,11 @@ def advance_world(conn, game, now, texts, rng) -> list:
         "UPDATE games SET forbidden_count=?, hack_active=0, last_tick_day=? WHERE id=?",
         (new_count, day, game_id))
 
+    # [安全] 顺带清理无限增长的表:过期感知日志(查询侧已按 expire_at 过滤,
+    # 行本身此前永不删除)与过期会话(原先仅在被再次访问时惰性删除)
+    conn.execute("DELETE FROM sense_logs WHERE expire_at<?", (now,))
+    conn.execute("DELETE FROM sessions WHERE expires_at<?", (now,))
+
     # 新闻:禁区追加(含当前与下次禁区)
     from .news import add_news
     cur = [config.PLACE[i] for i in order[:new_count]]

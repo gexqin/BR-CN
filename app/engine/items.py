@@ -70,7 +70,11 @@ def itemget(ctx):
     elif ("子弹" in name) or ("箭" in name):
         it["eff"] += eff
     else:
-        it["uses"] = (it["uses"] or 0) + (uses or 0)
+        # [FIX] uses=None(∞) 参与合并时保持 ∞(原 `(x or 0)+y` 会把 ∞ 变 0 耐久)
+        if it["uses"] is None or uses is None:
+            it["uses"] = None
+        else:
+            it["uses"] = it["uses"] + uses
     return True
 
 
@@ -330,7 +334,9 @@ def sort_items(ctx, a, b):
         _merge_food(ctx, a, b, "SD")
     elif same_name and ia["code"] == ib["code"] and (
             "WC" in ia["code"] or "WD" in ia["code"] or "毒药" in ia["name"]):
-        ia["uses"] = (ia["uses"] or 0) + (ib["uses"] or 0)
+        # [FIX] 任一侧 uses=None(∞)时合并结果保持 ∞
+        ia["uses"] = None if (ia["uses"] is None or ib["uses"] is None) \
+            else ia["uses"] + ib["uses"]
         ctx.set_item(b, None, "", 0, 0)
         ctx.log(f"把{ia['name']}整理好了。<br>")
     elif same_name and ia["code"] == ib["code"] and ia["code"] == "Y" and \

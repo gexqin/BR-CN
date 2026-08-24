@@ -101,9 +101,12 @@ def validate_register(conn, game, form, texts):
         raise RegisterError("id_half")
     if not password:
         raise RegisterError("pw_empty")
-    # [安全] 上限放宽到 32(原版 8 位半角口令空间过小,易被爆破;下限仍不限)
+    # [安全] 上限放宽到 32(原版 8 位半角口令空间过小,易被爆破)
     if len(password) > 32:
         raise RegisterError("pw_len")
+    # [安全] 下限 4 位(原为 1 位即可注册;有登录锁定兜底,但仍收紧口令空间)
+    if len(password) < 4:
+        raise RegisterError("pw_min")
     if FORBIDDEN_CHARS.search(password):
         raise RegisterError("pw_forbidden")
     if not HALF_ALNUM.fullmatch(password):

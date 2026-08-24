@@ -40,7 +40,10 @@ def admin_login(form: AdminLoginForm, request: Request, response: Response,
     if ratelimit.is_locked(key):
         raise HTTPException(429, "尝试次数过多,请稍后再试")
     # [安全] 常数时间比较,防时序侧信道
-    if not hmac.compare_digest(form.password, config.ADMIN_PASSWORD):
+    # [FIX] str 版 compare_digest 要求纯 ASCII:含中文的管理密码会抛 TypeError→500;
+    # 统一按 UTF-8 字节比较(若 BR_ADMIN_PASS 含非 ASCII,原实现会令管理登录永久 500)
+    if not hmac.compare_digest(form.password.encode("utf-8"),
+                               config.ADMIN_PASSWORD.encode("utf-8")):
         ratelimit.record_fail(key, max_fails=5, lock_secs=900)
         raise HTTPException(401, "管理密码不正确")
     ratelimit.clear(key)
@@ -199,6 +202,9 @@ def admin_backup(request: Request, conn=Depends(get_conn), label: str = ""):
     """整档快照(对等 admin.cgi BACKSAVE):players+area_items+news+games。"""
     _require_admin(request, conn)
     game = conn.execute("SELECT * FROM games ORDER BY id DESC LIMIT 1").fetchone()
+    # [FIX] 空库时 game 为 None,原实现直接 game["id"] → 500
+    if game is None:
+        raise HTTPException(400, "尚无游戏数据,请先数据初始化")
     snap = dict(
         games=[dict(r) for r in conn.execute("SELECT * FROM games WHERE id=?",
                                              (game["id"],)).fetchall()],

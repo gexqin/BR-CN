@@ -44,8 +44,18 @@ def register(form: RegisterForm, request: Request, response: Response,
         raise HTTPException(400, detail=dict(key=e.key, message=msg))
     try:
         with transaction(conn):
+            # [FIX] 校验在事务外:取写锁后复查对局仍 running 且未截止,
+            # 防校验与写入之间管理员开新局(旧局 abandoned)把玩家挂进死局
+            g2 = conn.execute("SELECT status, forbidden_count FROM games WHERE id=?",
+                              (game["id"],)).fetchone()
+            if g2 is None or g2["status"] != "running" \
+                    or g2["forbidden_count"] >= config.LIMIT * 3 + 1:
+                raise auth_svc.RegisterError("closed")
             pid = auth_svc.create_player(conn, game, data, random.Random(), texts)
             token = auth_svc.create_session(conn, game["id"], pid)
+    except auth_svc.RegisterError as e:
+        msg = texts["register_errors"][e.key].format(**e.params)
+        raise HTTPException(400, detail=dict(key=e.key, message=msg))
     except sqlite3.IntegrityError:
         # [FIX] 校验与写入不在同一事务:并发同名/同名同姓注册撞 UNIQUE → 友好提示
         raise HTTPException(400, detail=dict(

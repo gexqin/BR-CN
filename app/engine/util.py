@@ -18,9 +18,11 @@ def esc(text) -> str:
 
     所有进入日志 HTML 的玩家输入(dengon/speech/msg/dmes/com)必须先过此处。
     """
+    # [FIX] 补单引号:当前模板均为双引号属性,但演进出单引号属性时防属性逃逸
     return (str(text or "")
             .replace("&", "&amp;").replace("<", "&lt;")
-            .replace(">", "&gt;").replace('"', "&quot;"))
+            .replace(">", "&gt;").replace('"', "&quot;")
+            .replace("'", "&#39;"))
 
 
 def weapon_class(code: str) -> str:
