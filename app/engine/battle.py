@@ -636,6 +636,12 @@ def cmd_loot(ctx, args):
     if t["hit"] > 0 or (t["bid"] == p["id"] and not t["corpse_found"]):
         ctx.log(f"强烈地念叨着想要{t['f_name']}的那件物品。<br>真是空虚???。<br>")
         return
+    # [FIX] 与 cmd_attack 的死靶守卫对称:未发现且非击杀者的尸体不可直接搜刮,
+    # 否则可凭枚举 target_id 绕过尸体发现掷骰(无击杀者尸体 corpse_found
+    # 恒可进,对等 cmd_attack)
+    if not (t["corpse_found"] or t["found_by"] is None
+            or t["found_by"] == p["id"]):
+        raise CmdError("不正确的存取。")
 
     got = None
     if slot == "weapon":

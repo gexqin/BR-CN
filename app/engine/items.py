@@ -139,6 +139,16 @@ def use_item(ctx, slot):
             ctx.set_item(slot, *old)
         else:
             ctx.set_item(slot, None, "", 0, 0)
+    elif code.startswith("A"):     # 饰品(装入 5 号位)
+        # [FIX] 必须先于 "DB" in code 判定:防弹背心/杂志(ADB,护腹 AD 系饰品)
+        # 含子串 "DB",原分支顺序会误穿进身体槽,致 deftreat/腹部代伤失效
+        ctx.log(f"把{name}佩戴上了。<BR>")
+        old = ctx.item_at(5)
+        ctx.set_item(5, name, code, eff, uses)
+        if old is not None:
+            ctx.set_item(slot, old["name"], old["code"], old["eff"], old["uses"])
+        else:
+            ctx.set_item(slot, None, "", 0, 0)
     elif "DB" in code:             # 身体防具
         ctx.log(f"把{name}穿在了身上。<BR>")
         old = (p["bou_name"], p["bou_code"], p["bou_def"], p["bou_uses"])
@@ -153,14 +163,6 @@ def use_item(ctx, slot):
         _equip_part(ctx, slot, "bouf", "脚上")
     elif "DA" in code:             # 腕部
         _equip_part(ctx, slot, "boua", "手腕上")
-    elif code.startswith("A"):     # 饰品(装入 5 号位)
-        ctx.log(f"把{name}佩戴上了。<BR>")
-        old = ctx.item_at(5)
-        ctx.set_item(5, name, code, eff, uses)
-        if old is not None:
-            ctx.set_item(slot, old["name"], old["code"], old["eff"], old["uses"])
-        else:
-            ctx.set_item(slot, None, "", 0, 0)
     elif code == "R1" or code == "R2":     # 雷达
         from .radar import build_radar
         ctx.view = "radar"
@@ -505,7 +507,7 @@ def hack(ctx):
         ctx.game["hack_active"] = 1
         ctx.log("黑客程序成功！所有的禁止区域解除！！<BR>")
     else:
-        ctx.log("黑客程序成功?<BR>")
+        ctx.log("黑客程序失败了。<BR>")
     if dice1 >= config.HACK_BREAK_ROLL:     # 器材损坏
         ctx.set_item(laptop, None, "", 0, 0)
         ctx.log("糟糕！器材坏掉了。<BR>")

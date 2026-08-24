@@ -61,6 +61,14 @@ def run_command(conn, game, player_row, cmd, args, rng, now, texts):
         # 死亡/胜负检查
         if not ctx.dead and ctx.view == "main":
             check_victory(conn, ctx.game, now, texts, rng)
+            # [FIX] check_victory 把优胜者 status='won'/win_flag=1 直写库;
+            # 同步内存 dict,防随后 flush 用陈旧快照覆盖回 alive/0
+            # (与死亡路径的陈旧快照防护同类,胜利路径原先遗漏)
+            wrow = conn.execute("SELECT status, win_flag FROM players WHERE id=?",
+                                (ctx.player["id"],)).fetchone()
+            if wrow is not None and wrow["status"] == "won":
+                ctx.player["status"] = "won"
+                ctx.player["win_flag"] = 1
 
         # 玩家收件箱日志并入响应后清空(对等原版 SAVE 写空 log)
         inbox = ctx.player["log"] or ""
