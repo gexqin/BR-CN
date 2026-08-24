@@ -1,0 +1,127 @@
+[
+ {
+  "f_name": "坂持",
+  "l_name": "金发",
+  "sex": "男性",
+  "class_name": "班主任",
+  "class_no": 1,
+  "weapon": {
+   "name": "空手",
+   "code": "WP",
+   "att": 0,
+   "uses": null
+  },
+  "body_armor": {
+   "name": "内衣",
+   "code": "DN",
+   "deff": 0,
+   "uses": null
+  },
+  "head_armor": null,
+  "foot_armor": null,
+  "arm_armor": null,
+  "items": [
+   {
+    "name": "程序解除钥匙",
+    "code": "Y",
+    "eff": 1,
+    "uses": 1
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "f_name": "士兵",
+  "l_name": "田原",
+  "sex": "男性",
+  "class_name": "士兵",
+  "class_no": 1,
+  "weapon": {
+   "name": "空手",
+   "code": "WP",
+   "att": 0,
+   "uses": null
+  },
+  "body_armor": {
+   "name": "内衣",
+   "code": "DN",
+   "deff": 0,
+   "uses": null
+  },
+  "head_armor": null,
+  "foot_armor": null,
+  "arm_armor": null,
+  "items": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "f_name": "士兵",
+  "l_name": "野村",
+  "sex": "男性",
+  "class_name": "士兵",
+  "class_no": 2,
+  "weapon": {
+   "name": "空手",
+   "code": "WP",
+   "att": 0,
+   "uses": null
+  },
+  "body_armor": {
+   "name": "内衣",
+   "code": "DN",
+   "deff": 0,
+   "uses": null
+  },
+  "head_armor": null,
+  "foot_armor": null,
+  "arm_armor": null,
+  "items": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ },
+ {
+  "f_name": "士兵",
+  "l_name": "近藤",
+  "sex": "男性",
+  "class_name": "士兵",
+  "class_no": 3,
+  "weapon": {
+   "name": "空手",
+   "code": "WP",
+   "att": 0,
+   "uses": null
+  },
+  "body_armor": {
+   "name": "内衣",
+   "code": "DN",
+   "deff": 0,
+   "uses": null
+  },
+  "head_armor": null,
+  "foot_armor": null,
+  "arm_armor": null,
+  "items": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ }
+]

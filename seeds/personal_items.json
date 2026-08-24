@@ -1,0 +1,116 @@
+[
+ {
+  "name": "手机",
+  "code": "Y",
+  "eff": 1,
+  "uses": 1
+ },
+ {
+  "name": "狂野七人组",
+  "code": "SH",
+  "eff": 20,
+  "uses": 1
+ },
+ {
+  "name": "巴斯特",
+  "code": "SH",
+  "eff": 20,
+  "uses": 1
+ },
+ {
+  "name": "高奈特",
+  "code": "SH",
+  "eff": 20,
+  "uses": 1
+ },
+ {
+  "name": "威士忌",
+  "code": "HH",
+  "eff": 20,
+  "uses": 1
+ },
+ {
+  "name": "曲奇饼",
+  "code": "SH",
+  "eff": 20,
+  "uses": 1
+ },
+ {
+  "name": "戈麦斯",
+  "code": "SH",
+  "eff": 20,
+  "uses": 1
+ },
+ {
+  "name": "剃刀",
+  "code": "WN",
+  "eff": 5,
+  "uses": null
+ },
+ {
+  "name": "蝴蝶刀",
+  "code": "WNS",
+  "eff": 8,
+  "uses": null
+ },
+ {
+  "name": "火箭弹",
+  "code": "Y",
+  "eff": 1,
+  "uses": null
+ },
+ {
+  "name": "雷管",
+  "code": "Y",
+  "eff": 1,
+  "uses": null
+ },
+ {
+  "name": "纸牌",
+  "code": "WC",
+  "eff": 1,
+  "uses": 1
+ },
+ {
+  "name": "扑克牌",
+  "code": "WC",
+  "eff": 1,
+  "uses": 1
+ },
+ {
+  "name": "烟花",
+  "code": "Y",
+  "eff": 1,
+  "uses": 1
+ },
+ {
+  "name": "GBA",
+  "code": "WB",
+  "eff": 2,
+  "uses": 1
+ },
+ {
+  "name": "肥皂",
+  "code": "WB",
+  "eff": 1,
+  "uses": 1
+ },
+ {
+  "name": "牙刷",
+  "code": "WB",
+  "eff": 1,
+  "uses": 1
+ },
+ {
+  "name": "眼镜",
+  "code": "Y",
+  "eff": 1,
+  "uses": 1
+ },
+ {
+  "name": "杂志",
+  "code": "ADB",
+  "eff": 1,
+  "uses": 3
+ }
+]

@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# 数据库(含本地数据,不入库;可用 seeds 重建)
+*.db
+
+# 其他
+.DS_Store

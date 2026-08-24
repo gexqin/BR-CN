@@ -1,0 +1,5560 @@
+{
+ "1": [
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  }
+ ],
+ "2": [
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "菜刀",
+   "code": "WN",
+   "eff": 5,
+   "uses": 20
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "缝纫工具",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "缝纫工具",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "缝纫工具",
+   "code": "Y",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "电视",
+   "code": "WC",
+   "eff": 20,
+   "uses": 1
+  },
+  {
+   "name": "桌子",
+   "code": "WC",
+   "eff": 20,
+   "uses": 1
+  },
+  {
+   "name": "架子",
+   "code": "WC",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "传家宝刀",
+   "code": "WN",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "喷雾罐",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "喷雾罐",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "手机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "3": [
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "箭",
+   "code": "Y",
+   "eff": 12,
+   "uses": 1
+  },
+  {
+   "name": "箭",
+   "code": "Y",
+   "eff": 12,
+   "uses": 1
+  },
+  {
+   "name": "箭",
+   "code": "Y",
+   "eff": 12,
+   "uses": 1
+  },
+  {
+   "name": "箭",
+   "code": "Y",
+   "eff": 12,
+   "uses": 1
+  },
+  {
+   "name": "箭",
+   "code": "Y",
+   "eff": 12,
+   "uses": 1
+  },
+  {
+   "name": "箭",
+   "code": "Y",
+   "eff": 12,
+   "uses": 1
+  },
+  {
+   "name": "箭",
+   "code": "Y",
+   "eff": 12,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "携带式扩音器",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "携带式扩音器",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "4": [
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "钢琴线",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "苹果电脑",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "手机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "手机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "携带式扩音器",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "5": [
+  {
+   "name": "电池",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "电池",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "电池",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "电池",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "电池",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "防火服",
+   "code": "DBA",
+   "eff": 15,
+   "uses": 20
+  },
+  {
+   "name": "防火服",
+   "code": "DBA",
+   "eff": 15,
+   "uses": 20
+  },
+  {
+   "name": "防火服",
+   "code": "DBA",
+   "eff": 15,
+   "uses": 20
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "防火头盔",
+   "code": "DH",
+   "eff": 3,
+   "uses": 10
+  },
+  {
+   "name": "防火头盔",
+   "code": "DH",
+   "eff": 3,
+   "uses": 10
+  },
+  {
+   "name": "防火头盔",
+   "code": "DH",
+   "eff": 3,
+   "uses": 10
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "轻油",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "轻油",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "汽油",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "汽油",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "汽油",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "6": [
+  {
+   "name": "观音菩萨像",
+   "code": "WB",
+   "eff": 5,
+   "uses": null
+  },
+  {
+   "name": "袈裟",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 25
+  },
+  {
+   "name": "袈裟",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 25
+  },
+  {
+   "name": "袈裟",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 25
+  },
+  {
+   "name": "袈裟",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 25
+  },
+  {
+   "name": "阎魔像",
+   "code": "WB",
+   "eff": 7,
+   "uses": null
+  },
+  {
+   "name": "阿修罗像",
+   "code": "WB",
+   "eff": 10,
+   "uses": null
+  },
+  {
+   "name": "地藏菩萨像",
+   "code": "WB",
+   "eff": 8,
+   "uses": null
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "神官服装",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 15
+  },
+  {
+   "name": "神官服装",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 15
+  },
+  {
+   "name": "神官服装",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 15
+  },
+  {
+   "name": "神官服装",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 15
+  },
+  {
+   "name": "神官服装",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 15
+  },
+  {
+   "name": "神官服装",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 15
+  }
+ ],
+ "7": [
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  }
+ ],
+ "8": [
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  }
+ ],
+ "9": [
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "电视",
+   "code": "WC",
+   "eff": 20,
+   "uses": 1
+  },
+  {
+   "name": "桌子",
+   "code": "WC",
+   "eff": 20,
+   "uses": 1
+  },
+  {
+   "name": "架子",
+   "code": "WC",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "传家宝刀",
+   "code": "WNS",
+   "eff": 25,
+   "uses": null
+  },
+  {
+   "name": "肥料",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "红薯",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "山药",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "土豆",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "牛蒡",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "胡萝卜",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "洋葱",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "大蒜",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "生姜",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 6,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 6,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 6,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 6,
+   "uses": 1
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "10": [
+  {
+   "name": "十字镐",
+   "code": "WS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "铲子",
+   "code": "WSB",
+   "eff": 10,
+   "uses": null
+  },
+  {
+   "name": "铁锹",
+   "code": "WSB",
+   "eff": 5,
+   "uses": null
+  },
+  {
+   "name": "铁锹",
+   "code": "WSB",
+   "eff": 5,
+   "uses": null
+  },
+  {
+   "name": "铁锹",
+   "code": "WSB",
+   "eff": 5,
+   "uses": null
+  },
+  {
+   "name": "工程头盔",
+   "code": "DH",
+   "eff": 4,
+   "uses": 10
+  },
+  {
+   "name": "工程头盔",
+   "code": "DH",
+   "eff": 4,
+   "uses": 10
+  },
+  {
+   "name": "工程头盔",
+   "code": "DH",
+   "eff": 4,
+   "uses": 10
+  },
+  {
+   "name": "工作服",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 10
+  },
+  {
+   "name": "工作服",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 10
+  },
+  {
+   "name": "工作服",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 10
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "岩石",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "导火索",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "导火索",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "雷管",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "雷管",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "火药",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "11": [
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "全盔头盔",
+   "code": "DH",
+   "eff": 5,
+   "uses": 10
+  },
+  {
+   "name": "全盔头盔",
+   "code": "DH",
+   "eff": 5,
+   "uses": 10
+  },
+  {
+   "name": "全盔头盔",
+   "code": "DH",
+   "eff": 5,
+   "uses": 10
+  },
+  {
+   "name": "全盔头盔",
+   "code": "DH",
+   "eff": 5,
+   "uses": 10
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "钉",
+   "code": "Y",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "导火索",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "导火索",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "导火索",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "雷管",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "雷管",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "火药",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "火药",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "12": [
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "电视",
+   "code": "WC",
+   "eff": 20,
+   "uses": 1
+  },
+  {
+   "name": "桌子",
+   "code": "WC",
+   "eff": 20,
+   "uses": 1
+  },
+  {
+   "name": "缝纫工具",
+   "code": "Y",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "缝纫工具",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "缝纫工具",
+   "code": "Y",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "架子",
+   "code": "WC",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空瓶",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "空罐",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "咖喱粉",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "酱油",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "酱汁",
+   "code": "SH",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 10
+  },
+  {
+   "name": "喷雾罐",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "喷雾罐",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "13": [
+  {
+   "name": "木鱼",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "祭灵木牌",
+   "code": "WB",
+   "eff": 4,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "石子",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  }
+ ],
+ "14": [
+  {
+   "name": "铅笔",
+   "code": "WS",
+   "eff": 2,
+   "uses": null
+  },
+  {
+   "name": "铅笔",
+   "code": "WS",
+   "eff": 2,
+   "uses": null
+  },
+  {
+   "name": "铅笔",
+   "code": "WS",
+   "eff": 2,
+   "uses": null
+  },
+  {
+   "name": "铅笔",
+   "code": "WS",
+   "eff": 2,
+   "uses": null
+  },
+  {
+   "name": "铅笔",
+   "code": "WS",
+   "eff": 2,
+   "uses": null
+  },
+  {
+   "name": "铅笔",
+   "code": "WS",
+   "eff": 2,
+   "uses": null
+  },
+  {
+   "name": "铅笔",
+   "code": "WS",
+   "eff": 2,
+   "uses": null
+  },
+  {
+   "name": "橡皮",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "橡皮",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "橡皮",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "橡皮",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "橡皮",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "橡皮",
+   "code": "WC",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "烧瓶",
+   "code": "WC",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "烧瓶",
+   "code": "WC",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "烧瓶",
+   "code": "WC",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "烧瓶",
+   "code": "WC",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "拖把",
+   "code": "WB",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "拖把",
+   "code": "WB",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "拖把",
+   "code": "WB",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "黑板擦",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "黑板擦",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "黑板擦",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "黑板擦",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "黑板擦",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "白粉笔",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "红粉笔",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "黄粉笔",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "绿粉笔",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "棕粉笔",
+   "code": "WC",
+   "eff": 2,
+   "uses": 1
+  },
+  {
+   "name": "人体模型",
+   "code": "WB",
+   "eff": 3,
+   "uses": null
+  },
+  {
+   "name": "巨大的三角版",
+   "code": "WB",
+   "eff": 4,
+   "uses": null
+  },
+  {
+   "name": "大圆规",
+   "code": "WB",
+   "eff": 4,
+   "uses": null
+  },
+  {
+   "name": "椅子",
+   "code": "WB",
+   "eff": 4,
+   "uses": null
+  },
+  {
+   "name": "汽油",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "苹果电脑",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "苹果电脑",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "毒药",
+   "code": "Y",
+   "eff": 20,
+   "uses": null
+  }
+ ],
+ "15": [
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "破魔箭",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "神签",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  }
+ ],
+ "16": [
+  {
+   "name": "躇",
+   "code": "WN",
+   "eff": 15,
+   "uses": 1
+  }
+ ],
+ "17": [
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  }
+ ],
+ "18": [
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "果汁粉",
+   "code": "HH",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "果汁粉",
+   "code": "HH",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "果汁粉",
+   "code": "HH",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "果汁粉",
+   "code": "HH",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "果汁粉",
+   "code": "HH",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "果汁粉",
+   "code": "HH",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "果汁粉",
+   "code": "HH",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "果汁粉",
+   "code": "HH",
+   "eff": 3,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "电视",
+   "code": "WC",
+   "eff": 20,
+   "uses": 1
+  },
+  {
+   "name": "桌子",
+   "code": "WC",
+   "eff": 20,
+   "uses": 1
+  },
+  {
+   "name": "架子",
+   "code": "WC",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "盘子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "杯子",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "玻璃杯",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "锅",
+   "code": "WC",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "菜刀",
+   "code": "WNS",
+   "eff": 15,
+   "uses": null
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "喷雾罐",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "喷雾罐",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "打火机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "手机",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "19": [
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "伤药",
+   "code": "HH",
+   "eff": 40,
+   "uses": 1
+  },
+  {
+   "name": "白大褂",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 20
+  },
+  {
+   "name": "白大褂",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 20
+  },
+  {
+   "name": "白大褂",
+   "code": "DBN",
+   "eff": 10,
+   "uses": 20
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "营养饮料",
+   "code": "SH",
+   "eff": 50,
+   "uses": 1
+  },
+  {
+   "name": "毒药",
+   "code": "Y",
+   "eff": 20,
+   "uses": null
+  },
+  {
+   "name": "毒药",
+   "code": "Y",
+   "eff": 20,
+   "uses": null
+  }
+ ],
+ "20": [
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SD",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "炖菜",
+   "code": "SH",
+   "eff": 25,
+   "uses": 1
+  },
+  {
+   "name": "轻油",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "轻油",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ],
+ "21": [
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TN",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "捕鼠夹",
+   "code": "TO",
+   "eff": 10,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TN",
+   "eff": 8,
+   "uses": 1
+  },
+  {
+   "name": "地雷",
+   "code": "TO",
+   "eff": 8,
+   "uses": 1
+  }
+ ],
+ "99": [
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "子弹",
+   "code": "Y",
+   "eff": 5,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "水",
+   "code": "HH",
+   "eff": 15,
+   "uses": 1
+  },
+  {
+   "name": "火绳枪",
+   "code": "WGB",
+   "eff": 20,
+   "uses": 0
+  },
+  {
+   "name": "盔甲",
+   "code": "DBA",
+   "eff": 20,
+   "uses": 20
+  },
+  {
+   "name": "锁子甲",
+   "code": "DBK",
+   "eff": 18,
+   "uses": 20
+  },
+  {
+   "name": "头盔",
+   "code": "DH",
+   "eff": 8,
+   "uses": 20
+  },
+  {
+   "name": "名刀正宗",
+   "code": "WNS",
+   "eff": 25,
+   "uses": null
+  },
+  {
+   "name": "日本弓",
+   "code": "WAB",
+   "eff": 18,
+   "uses": 0
+  },
+  {
+   "name": "传家宝刀",
+   "code": "WNS",
+   "eff": 25,
+   "uses": null
+  },
+  {
+   "name": "传家宝甲",
+   "code": "DBA",
+   "eff": 25,
+   "uses": 20
+  },
+  {
+   "name": "雷达",
+   "code": "R2",
+   "eff": 1,
+   "uses": null
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "磨刀石",
+   "code": "Y",
+   "eff": 1,
+   "uses": 1
+  },
+  {
+   "name": "毒药",
+   "code": "Y",
+   "eff": 20,
+   "uses": null
+  },
+  {
+   "name": "毒药",
+   "code": "Y",
+   "eff": 20,
+   "uses": null
+  },
+  {
+   "name": "携带式扩音器",
+   "code": "Y",
+   "eff": 1,
+   "uses": null
+  }
+ ]
+}

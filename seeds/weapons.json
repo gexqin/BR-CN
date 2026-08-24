@@ -1,0 +1,266 @@
+[
+ {
+  "name": "弩弓",
+  "code": "WAB",
+  "att": 20,
+  "uses": 0
+ },
+ {
+  "name": "菜刀",
+  "code": "WNS",
+  "att": 15,
+  "uses": null
+ },
+ {
+  "name": "柴刀",
+  "code": "WN",
+  "att": 17,
+  "uses": null
+ },
+ {
+  "name": "防弹背心",
+  "code": "ADB",
+  "att": 5,
+  "uses": 30
+ },
+ {
+  "name": "雷明顿M31RS",
+  "code": "WGB",
+  "att": 28,
+  "uses": 0
+ },
+ {
+  "name": "匕首",
+  "code": "WNS",
+  "att": 17,
+  "uses": null
+ },
+ {
+  "name": "短刀",
+  "code": "WNS",
+  "att": 15,
+  "uses": null
+ },
+ {
+  "name": "英格拉姆M10冲锋枪",
+  "code": "WGB",
+  "att": 30,
+  "uses": 0
+ },
+ {
+  "name": "简易雷达",
+  "code": "R1",
+  "att": 1,
+  "uses": null
+ },
+ {
+  "name": "餐叉",
+  "code": "WS",
+  "att": 7,
+  "uses": null
+ },
+ {
+  "name": "金属水管",
+  "code": "WB",
+  "att": 15,
+  "uses": null
+ },
+ {
+  "name": "22口径双发德林杰",
+  "code": "WGB",
+  "att": 20,
+  "uses": 0
+ },
+ {
+  "name": "军用匕首",
+  "code": "WNSC",
+  "att": 20,
+  "uses": null
+ },
+ {
+  "name": "三味线琴弦",
+  "code": "Y",
+  "att": 1,
+  "uses": null
+ },
+ {
+  "name": "瓦尔特PPK 9mm",
+  "code": "WGB",
+  "att": 25,
+  "uses": 0
+ },
+ {
+  "name": "S&W M19·357马格南",
+  "code": "WGB",
+  "att": 26,
+  "uses": 0
+ },
+ {
+  "name": "伯莱塔M92F",
+  "code": "WGB",
+  "att": 25,
+  "uses": 0
+ },
+ {
+  "name": "S&W首席特种38口径",
+  "code": "WGB",
+  "att": 23,
+  "uses": 0
+ },
+ {
+  "name": "柯尔特357马格南左轮",
+  "code": "WGB",
+  "att": 27,
+  "uses": 0
+ },
+ {
+  "name": "双刃匕首",
+  "code": "WNS",
+  "att": 20,
+  "uses": null
+ },
+ {
+  "name": "勃朗宁大威力9mm",
+  "code": "WGB",
+  "att": 26,
+  "uses": 0
+ },
+ {
+  "name": "潜水匕首",
+  "code": "WNS",
+  "att": 20,
+  "uses": null
+ },
+ {
+  "name": "飞镖",
+  "code": "WC",
+  "att": 5,
+  "uses": 12
+ },
+ {
+  "name": "手榴弹",
+  "code": "WD",
+  "att": 40,
+  "uses": 2
+ },
+ {
+  "name": "S&W M59自动手枪",
+  "code": "WGB",
+  "att": 24,
+  "uses": 0
+ },
+ {
+  "name": "特警棍",
+  "code": "WB",
+  "att": 13,
+  "uses": null
+ },
+ {
+  "name": "柯尔特公路巡逻兵38口径",
+  "code": "WGB",
+  "att": 24,
+  "uses": 0
+ },
+ {
+  "name": "镰刀",
+  "code": "WNS",
+  "att": 20,
+  "uses": null
+ },
+ {
+  "name": "冰锥",
+  "code": "WS",
+  "att": 8,
+  "uses": null
+ },
+ {
+  "name": "双节棍",
+  "code": "WB",
+  "att": 12,
+  "uses": null
+ },
+ {
+  "name": "回旋镖",
+  "code": "WC",
+  "att": 9,
+  "uses": 5
+ },
+ {
+  "name": "CZ·M75",
+  "code": "WGB",
+  "att": 25,
+  "uses": 0
+ },
+ {
+  "name": "乌兹9mm冲锋枪",
+  "code": "WGB",
+  "att": 30,
+  "uses": 0
+ },
+ {
+  "name": "西格·绍尔P230 9mm",
+  "code": "WGB",
+  "att": 26,
+  "uses": 0
+ },
+ {
+  "name": "柯尔特政府型45口径",
+  "code": "WGB",
+  "att": 25,
+  "uses": 0
+ },
+ {
+  "name": "日本刀",
+  "code": "WNS",
+  "att": 25,
+  "uses": null
+ },
+ {
+  "name": "折纸扇",
+  "code": "WB",
+  "att": 1,
+  "uses": null
+ },
+ {
+  "name": "洗脸盆",
+  "code": "WB",
+  "att": 1,
+  "uses": null
+ },
+ {
+  "name": "拖鞋",
+  "code": "WB",
+  "att": 1,
+  "uses": null
+ },
+ {
+  "name": "黑板擦",
+  "code": "WC",
+  "att": 1,
+  "uses": 1
+ },
+ {
+  "name": "粉笔",
+  "code": "WC",
+  "att": 1,
+  "uses": 1
+ },
+ {
+  "name": "球棒",
+  "code": "WB",
+  "att": 12,
+  "uses": null
+ },
+ {
+  "name": "指虎",
+  "code": "WP",
+  "att": 8,
+  "uses": null
+ },
+ {
+  "name": "玩具锤",
+  "code": "WB",
+  "att": 1,
+  "uses": null
+ }
+]

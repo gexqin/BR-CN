@@ -1,0 +1,154 @@
+/* BATTLE ROYALE — HTML5 样式表（替代丢失的 xgod.css，延续原版黑底红字风格） */
+
+html {
+    background: #000000;
+}
+
+body {
+    background: #000000;
+    color: #ffffff;
+    font-size: 13px;
+    font-family: "Microsoft YaHei", "PingFang SC", "MS UI Gothic", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    margin: 0;
+    padding: 16px 8px;
+}
+
+/* 链接：红色（原 link/vlink #ff0000） */
+a:link, a:visited { color: #ff0000; }
+a:active { color: #ff0000; }
+
+/* 版心：原版固定 568px 表格宽度 */
+main, .page {
+    width: 568px;
+    max-width: 96vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #666666;
+}
+
+/* ---------- 通用文字样式（替代 <FONT>） ---------- */
+.red    { color: #ff0000; }
+.lime   { color: #00ff00; }
+.yellow { color: #ffff00; }
+.white  { color: #ffffff; }
+.black  { color: #000000; }
+.big    { font-size: 1.5em; }      /* 原 size=+2 / size=5 */
+.huge   { font-size: 1.75em; }     /* 原 size=6 */
+.title  { font-size: 2em; }        /* 原 size=+3 场所名 */
+.bold   { font-weight: bold; }
+
+/* 场所名（主画面顶部） */
+.place-name {
+    color: #ff0000;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: "SimHei", "Microsoft YaHei", sans-serif;
+}
+
+/* ---------- 表格（状态/日志/地图） ---------- */
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 0 auto;
+}
+table.panel {
+    border: 1px solid #ffffff;      /* 原 border=1 */
+    background: #000000;
+}
+table.panel th, table.panel td {
+    padding: 2px 6px;
+}
+th {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+/* 地图网格（map.cgi / reader.cgi):岛屿地形版 */
+td.sea       { background: #164a8a; color: #000000; }
+td.land      { background: #2f6b3a; }   /* 地形 SVG 的纯色兜底 */
+td.forbidden { background: #2f6b3a; }
+td.next      { background: #2f6b3a; }
+/* 格子:68×46,5 字场所名单行放得下 */
+table.map-grid th, table.map-grid td {
+    width: 68px;
+    height: 46px;
+    padding: 2px 1px;
+    text-align: center;
+    vertical-align: middle;
+}
+/* 地形/海面背景图铺满格子;场所名沉底单行摆放 */
+table.map-grid td.sea, table.map-grid td.land,
+table.map-grid td.forbidden, table.map-grid td.next {
+    position: relative;
+    padding: 0;
+    overflow: hidden;
+}
+svg.map-bg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.map-label {
+    position: absolute;
+    bottom: 2px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+    padding: 0 2px;
+    border-radius: 3px;
+    background: rgba(0, 0, 0, 0.55);
+    font-size: 12px;
+    line-height: 1.3;
+    white-space: nowrap;
+    color: #ffffff;
+}
+td.forbidden .map-label { color: #ff4d4d; }
+td.next .map-label      { color: #ffe066; }
+table.map-grid tr > :first-child { width: 30px; }   /* 行表头列收窄 */
+/* 地图页版心(行表头 30px + 10 列 × 68px),窄屏横向滚动兜底 */
+.map-page {
+    width: 740px;
+    max-width: 98vw;
+    margin: 0 auto;
+    overflow-x: auto;
+}
+
+/* ---------- 表单 ---------- */
+input, select, textarea { background: #000000; color: #ffffff; }
+input[type="submit"] {
+    color: #ff0000;
+    font-weight: bold;
+}
+
+/* ---------- 布局辅助（替代 align/valign） ---------- */
+.center { text-align: center; }
+.right  { text-align: right; }
+.left   { text-align: left; }
+.top    { vertical-align: top; }
+.middle { vertical-align: middle; }
+
+/* 页脚版权 */
+footer, .footer {
+    text-align: right;
+    margin-top: 8px;
+}
+
+/* ---------- 首页专属 ---------- */
+/* 首页背景（原 <body background="photo/br.jpg">） */
+.home-bg {
+    background-image: url("photo/br.jpg");
+    background-color: #000000;
+    background-repeat: repeat;
+}
+
+/* 宋体（原 <FONT face=宋体>） */
+.simsun { font-family: "SimSun", "宋体", serif; }
