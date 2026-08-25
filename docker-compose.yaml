@@ -1,0 +1,25 @@
+services:
+  brcn:
+    image: qinzhen/brcn:latest
+    container_name: brcn
+    command: python3 run.py
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      # 管理后台密码(不设则管理登录禁用)
+      # 真实密码放在同目录 .env 文件:BR_ADMIN_PASS=xxx(.env 已被 gitignore)
+      BR_ADMIN_PASS: "${BR_ADMIN_PASS:?请在 .env 或环境变量中设置 BR_ADMIN_PASS}"
+      # 数据库放在卷里,重建容器不丢数据
+      BR_DB: /data/brcn.db
+    volumes:
+      - brcn-data:/data
+    healthcheck:
+      test: ["CMD-SHELL", "python3 -c \"import urllib.request;urllib.request.urlopen('http://127.0.0.1:8000/')\" || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  brcn-data:
